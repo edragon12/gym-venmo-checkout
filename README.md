@@ -54,6 +54,8 @@ created in `dist/`.
 - [Deployment and testing](docs/DEPLOYMENT.md)
 - [Security and operational notes](SECURITY.md)
 
+`readme.txt` is the WordPress.org-format readme. Keep it alongside this file.
+
 ## Privacy and assets
 
 Buyer names and sales records are stored in the WordPress database. The
@@ -66,4 +68,4 @@ Add only assets you are authorized to use and redistribute.
 
 ## License
 
-GNU General Public License v2.0 or later. See [LICENSE](LICENSE).
+GNU General Public License v2.0 or later (GPL-2.0-or-later). See [LICENSE](LICENSE).
